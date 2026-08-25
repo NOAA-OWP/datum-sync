@@ -1,0 +1,5 @@
+--
+This product includes portions of the hellkite50/bmi_pytorch SDK
+
+Licensed under the MIT license
+--
