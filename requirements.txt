@@ -8,7 +8,7 @@ async-lru==2.0.5
 attrs==25.3.0
 babel==2.17.0
 beautifulsoup4==4.13.4
-black==25.1.0
+black==26.10.1
 bleach==6.2.0
 bmipy==2.0.1
 certifi==2025.6.15
