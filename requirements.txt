@@ -11,7 +11,7 @@ beautifulsoup4==4.13.4
 black==25.1.0
 bleach==6.2.0
 bmipy==2.0.1
-certifi==2025.6.15
+certifi==2026.10.18
 cffi==1.17.1
 charset-normalizer==3.4.2
 click==8.2.1
